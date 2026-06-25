@@ -114,6 +114,8 @@ streamlit run app.py
 
 Open [http://localhost:8501](http://localhost:8501), paste your main sitemap URL and one or more TLD sitemap URLs, and click **Compare**. Then **📋 Copy table** or **⬇️ Download XLSX**.
 
+For a full walkthrough of every feature, see the [Usage Guide](USAGE.md).
+
 ---
 
 ## 📖 How It Works
