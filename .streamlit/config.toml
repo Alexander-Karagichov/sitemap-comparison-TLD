@@ -1,0 +1,8 @@
+[server]
+# Skip the first-run interactive email prompt and don't try to auto-open a
+# browser. This makes `streamlit run app.py` start non-interactively and
+# deterministically. It prints the local URL and serves immediately.
+headless = true
+
+[browser]
+gatherUsageStats = false
